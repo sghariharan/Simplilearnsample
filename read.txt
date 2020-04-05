@@ -1,1 +1,2 @@
 hi, how are you
+hi, this is for merging. not the simple one but 2 way merging
